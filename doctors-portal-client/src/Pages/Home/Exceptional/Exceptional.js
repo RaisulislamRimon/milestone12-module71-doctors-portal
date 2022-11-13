@@ -4,7 +4,7 @@ import treatment from "../../../assets/images/treatment.png";
 const Exceptional = () => {
   return (
     <div className="mt-20">
-      <div className="card lg:card-side bg-base-100 shadow-xl">
+      <div className="card lg:card-side ">
         <figure>
           <img src={treatment} className="lg:w-1/2 rounded-lg" alt="Album" />
         </figure>
