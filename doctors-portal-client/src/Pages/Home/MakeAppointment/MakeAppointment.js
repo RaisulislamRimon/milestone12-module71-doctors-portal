@@ -26,7 +26,7 @@ const MakeAppointment = () => {
               here', making it look like readable English. Many desktop
               publishing packages and web page
             </p>
-            <PrimaryButton>Get Started</PrimaryButton>
+            <PrimaryButton>Appointment</PrimaryButton>
           </div>
         </div>
       </div>
