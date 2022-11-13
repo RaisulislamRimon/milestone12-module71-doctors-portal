@@ -11,7 +11,7 @@ const Testimonial = () => {
       id: 1,
       name: "Winson Herry",
       location: "California",
-      img: "https://i.ibb.co/7bQQYkX/customer-1.png",
+      img: people1,
       description:
         "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
     },
@@ -19,7 +19,7 @@ const Testimonial = () => {
       id: 2,
       name: "Winson Herry",
       location: "California",
-      img: "https://i.ibb.co/7bQQYkX/customer-1.png",
+      img: people2,
       description:
         "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
     },
@@ -27,7 +27,7 @@ const Testimonial = () => {
       id: 3,
       name: "Winson Herry",
       location: "California",
-      img: "https://i.ibb.co/7bQQYkX/customer-1.png",
+      img: people3,
       description:
         "It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content",
     },

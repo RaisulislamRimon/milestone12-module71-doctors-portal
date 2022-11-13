@@ -1,7 +1,7 @@
 import React from "react";
 
 const Review = ({ review }) => {
-  const { id, name, description, img, location } = review;
+  const { name, description, img, location } = review;
   return (
     <div>
       <div className="card shadow-xl">

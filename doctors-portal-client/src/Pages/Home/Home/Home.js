@@ -14,7 +14,7 @@ const Home = () => {
       <Services />
       <Exceptional />
       <MakeAppointment />
-      <Testimonial/>
+      <Testimonial />
     </div>
   );
 };
